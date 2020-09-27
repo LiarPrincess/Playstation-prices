@@ -1,10 +1,10 @@
 Gather data about current Playstation game prices.
 
 Uses:
-- [store.playstation.com](store.playstation.com)
-- [psprices.com](psprices.com)
-- [howlongtobeat.com](howlongtobeat.com)
-- [savecoins.app](savecoins.app)
+- [store.playstation.com](https://store.playstation.com)
+- [psprices.com](https://psprices.com)
+- [howlongtobeat.com](https://howlongtobeat.com)
+- [savecoins.app](https://savecoins.app)
 
 # Important
 This is actually my private tool. It is public on GitHub because… *who cares*.
